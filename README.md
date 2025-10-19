@@ -1,2 +1,4 @@
 # mehmoodtech
-This is my first git repository.Author _ Mehmood Ahmad Khan 
+This is my first git repository.
+<br>
+Author_ Mehmood Ahmad Khan
